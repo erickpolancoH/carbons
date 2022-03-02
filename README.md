@@ -12,6 +12,7 @@
             background-color:black;
             margin: 1%;
             padding: 2%;
+            border-style: none;
         }
 
         h1{
