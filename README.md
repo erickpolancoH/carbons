@@ -1,4 +1,3 @@
-# carbons
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -32,27 +31,20 @@ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubun
 
 
 .monk{
-    width: 300px;
+    width: 150px;
     height: auto;
     padding: 0%;
     margin: 1%;
+border-radius: 50px 50px;
+margin: 0 auto;
 }
-
-.logo{
-    width: 300px;
-    height: auto;
-    padding: 0%;
-    margin: 1%;
-}
-
 
     </style>
-<img src="carbons logo.png" class="logo" > <br>
     <img src="monk.png" class="monk" >
 
 
    <h1>Carbons</h1>
-    <h2>carbons/ delinger</h2>
+    <h2>carbons/Red flag </h2>
     <audio controls>
         <source src="red flag.mp3" type="audio/mp4" controls="">
     </audio>
