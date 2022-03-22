@@ -11,10 +11,16 @@
     <style>
         body{
             background-color:black;
+            background-image :url(crab.PNG) ;
+    background-position: center;
+    background-size: cover;
             margin: 1%;
             padding: 2%;
             border-style: none;
+            inset-inline: block;
             margin: 0 auto;
+            margin: 1px;
+            padding: 2px;
 display: block;
         }
 
@@ -56,6 +62,10 @@ display: block;
     <h2>carbons/Red flag </h2>
     <audio controls>
         <source src="red flag.mp3" type="audio/mp4" controls="true" controls playsinline  autoplay >
+    </audio>
+    <h2>carbons/Red flag </h2>
+    <audio controls>
+        <source src="report.mp3" type="audio/mp4" controls="true" controls playsinline  autoplay >
     </audio>
   
 </body>
